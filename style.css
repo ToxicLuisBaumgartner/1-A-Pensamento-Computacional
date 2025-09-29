@@ -7,11 +7,11 @@ header {
 
 body {
    color: rgb(22, 242, 73);
-  background: rgb(140, 208,144);
+  background: rgb(0,0,0);
 }
 
 section {
-background: rgb (010, 101, 001);
+background: rgb (140, 208,144);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
